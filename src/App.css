@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu:400,500,700');
+.navbar {
+  background-color: #006400;
+}
+
+.navbar img {
+  width: 275px;
+}
+
+.leaderboardNav {
+  border-radius: 5px;
+  color: white;
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 20px;
+  text-align: center;
+  width: 100%;
+}
+
+.container {
+  margin-top: 90px;
+}
+
+html, body {
+  background-color: grey;
+  height: 100%;
+}
+
+.media-object {
+ width: 50px;
+  height: 50px;
+  margin: 0 20px 0 20px;
+}
+
+.userName {
+  margin: 25px;
+  font-family: 'Ubuntu', sans-serif;
+  font-size:18px;
+  font-weight: 700px;
+}
+
+.rank {
+  display: flex;
+  align-items: center;
+  flex-flow: column;
+  justify-content: center;
+  width: 50px;
+/*   margin: 0 15px 0 25px; */
+  font-family: 'Ubuntu', sans-serif;
+  font-size:18px;
+  font-weight: 700px;
+}
+
+.list-group-item {
+  padding: 0px!important;
+  height: 60px;
+  width: 100%;
+}
+.legend {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  
+}
+
+.list-group {
+  padding: 0px;
+}
+
+.border{
+  height: 60px;
+  border: solid;
+  border-width: 1px;
+  border-color: #DFDFDF;
+}
+
+.Points {
+/*   width: 100%; */
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 20px;
+}
